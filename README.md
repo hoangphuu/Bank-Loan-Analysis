@@ -1,4 +1,4 @@
-# 🌟 Advanced Bank Loan Data Analysis: Empowering Decision-Making through Dynamic Insights
+# 🌟  Bank Loan Data Analysis: Empowering Decision-Making through Dynamic Insights
 
 ## Project Overview
 This project focuses on developing advanced interactive dashboards to derive meaningful insights from loan data, addressing limitations in traditional reporting methods. By providing comprehensive views into lending operations, borrower behavior, and loan performance metrics, these dashboards empower decision-makers to make data-driven decisions. 📊
